@@ -37,15 +37,7 @@
 > npm update
 > npm start
 ```
-### `ACTIVAR EN HEROKU`
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BrunoSobrino/ShadowBotV3.2)
-```bash
-AÑADE AL APARTADO DE BUILPACK LO SIGUIENTE:
-> heroku/nodejs
-> https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
-> https://github.com/clhuang/heroku-buildpack-webp-binaries.git
-> https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
-```
+
 ### `NOTAS`
 ```bash
 > Para activar algunos comandos como 
