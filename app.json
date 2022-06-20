@@ -1,7 +1,7 @@
 {
   "name": "ShadowBotV3.2",
   "description": "Subscribete a The Shadow Borkers - Bot (≧▽≦)",
-  "repository": "https://github.com/BrunoSobrino/ShadowBotV3.2",
+  "repository": "https://github.com/deepak260901/ShadowBotV3.2",
   "logo": "https://raw.githubusercontent.com/BrunoSobrino/TheMystic-Bot-MD/master/Menu2.jpg",
   "keywords": ["java", "bot", "whatsapp-bot", "whatsapp-automation"],
   "buildpacks": [
@@ -18,4 +18,4 @@
     "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
   }    
  ]
-
+}
