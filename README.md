@@ -19,6 +19,9 @@
 ### `AJUSTES`
 - CAMBIAR NÚMERO DE PROPIETARIO [Aqui](https://github.com/BrunoSobrino/ShadowBotV3.2/blob/master/config.js)
 
+### `—◉ ✨ ACTIVAR EN HEROKU ✨`
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/deepak260901/ShadowBotV3.2)
+
 ### `Video tutorial para instalar el Bot`
 <a href="https://www.youtube.com/watch?v=dP8-aaHinBE&t=55s"><img height="30" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>&nbsp;&nbsp;
 
